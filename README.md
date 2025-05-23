@@ -4,8 +4,22 @@
 <h2>執行平台</h2>
 <p>本系統在Android平台運行，支援Android手機與平板裝置。</p>
 
-<h2 style="font-size: 20px;">系統畫面展示</h2>
-<p>點擊圖片觀看操作影片</p>
+<h2 style="font-size: 20px;">遊戲畫面展示</h2>
+
+<h3 style="font-size: 16px;">遊戲畫面</h3>
+<table>
+  <tr>
+    <td><img src="Assets/ElementScreenshots/Element01.png" alt="畫面1" width="400" /></td>
+    <td><img src="Assets/ElementScreenshots/Element02.png" alt="畫面2" width="400" /></td>
+  </tr>
+  <tr>
+    <td><img src="Assets/ElementScreenshots/Element03.png" alt="畫面3" width="400" /></td>
+    <td><img src="Assets/ElementScreenshots/Element04.png" alt="畫面4" width="400" /></td>
+  </tr>
+</table>
+
+<h3 style="font-size: 16px;">展示影片</h3>
+<p>點擊圖片觀看展示影片</p>
 <a href="https://youtu.be/Z-NRW-RCavo">
   <img src="Assets/Element_Screenshot.png" alt="點擊觀看操作影片" width="600" />
 </a>
